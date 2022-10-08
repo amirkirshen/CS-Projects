@@ -1,0 +1,12 @@
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 Amir 208930586 Tal 208458414\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 Amir 208930586 Tal 208458414\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 Amir 208930586 Tal 208458414\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 Amir 208930586 Tal 208458414\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 Amir 208930586 Tal 208458414\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 Amir 208930586 Tal 208458414\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex04 Amir 208930586 Tal 208458414\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex04 Amir 208930586 Tal 208458414\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex04 Amir 208930586 Tal 208458414\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex04 Amir 208930586 Tal 208458414\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex04 Amir 208930586 Tal 208458414\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex04 Amir 208930586 Tal 208458414\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

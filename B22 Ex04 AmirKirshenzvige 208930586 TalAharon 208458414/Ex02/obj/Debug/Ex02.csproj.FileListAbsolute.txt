@@ -1,0 +1,15 @@
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\bin\Debug\Ex02.exe
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\bin\Debug\Ex02.pdb
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\obj\Debug\Ex02.csproj.AssemblyReference.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\obj\Debug\Ex02.exe
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\obj\Debug\Ex02.pdb
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\obj\Debug\Ex02.csproj.AssemblyReference.cache
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\obj\Debug\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\obj\Debug\Ex02.exe
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\obj\Debug\Ex02.pdb
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\bin\Debug\Ex02.exe
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\bin\Debug\Ex02.pdb
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\amirk\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\c#\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\obj\Debug\Ex02.csproj.CopyComplete
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex02 Amir 208930586 Tal 208458414\Ex02\obj\Debug\Ex02.csproj.CopyComplete

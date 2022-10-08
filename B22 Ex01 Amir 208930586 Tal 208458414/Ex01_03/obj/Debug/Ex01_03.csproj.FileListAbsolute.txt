@@ -1,0 +1,9 @@
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex01 Amir 208930586 Tal 208458414\Ex01_03\obj\Debug\Ex01_03.csproj.CoreCompileInputs.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex01 Amir 208930586 Tal 208458414\Ex01_03\bin\Debug\Ex01_03.exe
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex01 Amir 208930586 Tal 208458414\Ex01_03\bin\Debug\Ex01_03.pdb
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex01 Amir 208930586 Tal 208458414\Ex01_03\bin\Debug\Ex01_02.dll
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex01 Amir 208930586 Tal 208458414\Ex01_03\bin\Debug\Ex01_02.pdb
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex01 Amir 208930586 Tal 208458414\Ex01_03\obj\Debug\Ex01_03.csproj.AssemblyReference.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex01 Amir 208930586 Tal 208458414\Ex01_03\obj\Debug\Ex01_03.csproj.CopyComplete
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex01 Amir 208930586 Tal 208458414\Ex01_03\obj\Debug\Ex01_03.exe
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex01 Amir 208930586 Tal 208458414\Ex01_03\obj\Debug\Ex01_03.pdb

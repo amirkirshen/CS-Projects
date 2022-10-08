@@ -1,0 +1,6 @@
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UI\bin\Debug\UI.dll
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UI\bin\Debug\UI.pdb
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UI\obj\Debug\UIConsole.csproj.AssemblyReference.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UI\obj\Debug\UIConsole.csproj.CoreCompileInputs.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UI\obj\Debug\UI.dll
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UI\obj\Debug\UI.pdb

@@ -1,0 +1,17 @@
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\obj\Debug\UIWindows.csproj.AssemblyReference.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\obj\Debug\UIWindows.FormCheckers.resources
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\obj\Debug\UIWindows.FormGameBoard.resources
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\obj\Debug\UIWindows.FormGameSettings.resources
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\obj\Debug\UIWindows.csproj.GenerateResource.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\obj\Debug\UIWindows.Properties.Resources.resources
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\obj\Debug\UIWindows.csproj.CoreCompileInputs.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\bin\Debug\UIWindows.exe
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\bin\Debug\UIWindows.pdb
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\bin\Debug\Logic.dll
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\bin\Debug\UI.dll
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\bin\Debug\Logic.pdb
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\bin\Debug\UI.pdb
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\obj\Debug\UIWindows.csproj.CopyComplete
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\obj\Debug\UIWindows.exe
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\CS-Projects\B22 Ex04 AmirKirshenzvige 208930586 TalAharon 208458414\UIWindows\obj\Debug\UIWindows.pdb

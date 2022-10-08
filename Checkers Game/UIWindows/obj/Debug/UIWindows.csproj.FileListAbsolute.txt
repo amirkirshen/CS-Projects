@@ -1,0 +1,15 @@
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\bin\Debug\UIWindows.exe
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\bin\Debug\UIWindows.pdb
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\bin\Debug\Logic.dll
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\bin\Debug\Logic.pdb
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\obj\Debug\UIWindows.csproj.AssemblyReference.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\obj\Debug\Checkers.UI.FormCheckers.resources
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\obj\Debug\Checkers.UI.FormGameBoard.resources
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\obj\Debug\Checkers.UI.FormGameSettings.resources
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\obj\Debug\UIWindows.Properties.Resources.resources
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\obj\Debug\UIWindows.Resources.resources
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\obj\Debug\UIWindows.csproj.GenerateResource.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\obj\Debug\UIWindows.csproj.CoreCompileInputs.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\obj\Debug\UIWindows.csproj.CopyComplete
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\obj\Debug\UIWindows.exe
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\UIWindows\obj\Debug\UIWindows.pdb

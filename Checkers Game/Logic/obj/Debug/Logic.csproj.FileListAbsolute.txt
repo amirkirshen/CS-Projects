@@ -1,0 +1,8 @@
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\Logic\bin\Debug\Logic.dll
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\Logic\bin\Debug\Logic.pdb
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\Logic\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\Logic\obj\Debug\Logic.dll
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Repositories\Checkers Game\Logic\obj\Debug\Logic.pdb
