@@ -32,5 +32,5 @@ After finish single game there is an option to start another game and the player
 ![CheckersGameGIF](https://user-images.githubusercontent.com/82831070/174772007-1bbfa615-2760-4d52-bd27-e725eada8e36.gif)
 
 ## Other contributors:
-[Amir Kirshenzvige](https://github.com/amirkirshen)
+[Tal Aharon](https://github.com/TalAharon23)
 
